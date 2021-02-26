@@ -1,0 +1,31 @@
+<div class="profile_nav">
+  <ul>
+    <li>
+      <a href="profile.php">Profile Settings</a>
+    </li>
+    <li>
+      <a href="post-vehicle.php">Post a Vehicle</a>
+    </li>
+    <li>
+      <a href="my-vehicles.php">Posted Vehicles</a>
+    </li>
+    <li>
+      <a href="car-booking.php">Posted Vehicles Booking</a>
+    </li>
+    <li>
+      <a href="post-testimonial.php">Post a Testimonial</a>
+    </li>
+    <li>
+      <a href="my-testimonials.php">My Testimonials</a>
+    </li>
+    <li>
+      <a href="my-booking.php">My Booking</a>
+    </li>    
+    <li>
+      <a href="update-password.php">Update Password</a>
+    </li>
+    <li>
+      <a href="logout.php">Sign Out</a>
+    </li>
+  </ul>
+</div>
